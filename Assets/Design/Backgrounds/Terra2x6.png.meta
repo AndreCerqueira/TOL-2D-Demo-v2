@@ -1,0 +1,1159 @@
+fileFormatVersion: 2
+guid: 8b4821c53d2cf3e4db75c31ca3ea12c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1165308961808205759
+    second: Terra2x6_0
+  - first:
+      213: -540078149932807228
+    second: Terra2x6_1
+  - first:
+      213: -1859347495075536118
+    second: Terra2x6_2
+  - first:
+      213: -5031235719946841371
+    second: Terra2x6_3
+  - first:
+      213: -1294220938015107833
+    second: Terra2x6_4
+  - first:
+      213: 3879799372809367333
+    second: Terra2x6_5
+  - first:
+      213: -3699579105540699074
+    second: Terra2x6_6
+  - first:
+      213: -4006135860334327645
+    second: Terra2x6_7
+  - first:
+      213: -3476619059968355380
+    second: Terra2x6_8
+  - first:
+      213: 4106524506484256223
+    second: Terra2x6_9
+  - first:
+      213: -1078319127172404098
+    second: Terra2x6_10
+  - first:
+      213: -6373860145623403795
+    second: Terra2x6_11
+  - first:
+      213: 1664240608986118628
+    second: Terra2x6_12
+  - first:
+      213: 1432578030419890587
+    second: Terra2x6_13
+  - first:
+      213: -1410405739680969240
+    second: Terra2x6_14
+  - first:
+      213: -6413706178260622248
+    second: Terra2x6_15
+  - first:
+      213: -4479819296850766948
+    second: Terra2x6_16
+  - first:
+      213: -7811925849649153423
+    second: Terra2x6_17
+  - first:
+      213: 1963755952608059021
+    second: Terra2x6_18
+  - first:
+      213: 3212213991645474196
+    second: Terra2x6_19
+  - first:
+      213: -3475181104897515055
+    second: Terra2x6_20
+  - first:
+      213: 5414602596616390525
+    second: Terra2x6_21
+  - first:
+      213: 3755436646371848932
+    second: Terra2x6_22
+  - first:
+      213: 7157722871914636078
+    second: Terra2x6_23
+  - first:
+      213: 4054232505225836152
+    second: Terra2x6_24
+  - first:
+      213: -3583338034389133696
+    second: Terra2x6_25
+  - first:
+      213: -6310353920795426246
+    second: Terra2x6_26
+  - first:
+      213: -6477698075122441498
+    second: Terra2x6_27
+  - first:
+      213: -660621789437510256
+    second: Terra2x6_28
+  - first:
+      213: 3728639798946393796
+    second: Terra2x6_29
+  - first:
+      213: 3136112598064828152
+    second: Terra2x6_30
+  - first:
+      213: -4382200855138052620
+    second: Terra2x6_31
+  - first:
+      213: 3067357138480653304
+    second: Terra2x6_32
+  - first:
+      213: 6456058615310544792
+    second: Terra2x6_33
+  - first:
+      213: 6623776924404302850
+    second: Terra2x6_34
+  - first:
+      213: -6196552934445408294
+    second: Terra2x6_35
+  - first:
+      213: -1994092186229716970
+    second: Terra2x6_36
+  - first:
+      213: 8040211574163351463
+    second: Terra2x6_37
+  - first:
+      213: 3292661964600586596
+    second: Terra2x6_38
+  - first:
+      213: 8617548427286269041
+    second: Terra2x6_39
+  - first:
+      213: 4166869768565031272
+    second: Terra2x6_40
+  - first:
+      213: -1911648927052973415
+    second: Terra2x6_41
+  - first:
+      213: -7900205686983278356
+    second: Terra2x6_42
+  - first:
+      213: -8625878530053372353
+    second: Terra2x6_43
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Terra2x6_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1776
+        width: 192
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d31a9507a57a764c87e3435f0bf5d42
+      internalID: -1165308961808205759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra2x6_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1188
+        width: 96
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b4a39f0786b224f9c28b5e3e09feca
+      internalID: -540078149932807228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra2x6_2
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1188
+        width: 96
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cada8d95a3d9443bf3a797f7c662af
+      internalID: -1859347495075536118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra2x6_3
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1254
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ab1ae5388ecaf428f6d9b8eab8b8c2
+      internalID: -5031235719946841371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra2x6_4
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1254
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b3d9c8cf3c86f41b66a68d49d92b8e
+      internalID: -1294220938015107833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra2x6_5
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 1254
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce53882184dc09c4fb15c3605e4401d2
+      internalID: 3879799372809367333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra2x6_6
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1254
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea472131aedf1b48872a122477582f3
+      internalID: -3699579105540699074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra2x6_7
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1146
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8f1c87f219b1e44878ee311d5a97c0
+      internalID: -4006135860334327645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra2x6_8
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1146
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fa6cb006bf8764db34e48c3f28958d
+      internalID: -3476619059968355380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra2x6_9
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1152
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3737fb0ef04e04e91006d26a3ede2f
+      internalID: 4106524506484256223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra2x6_10
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1152
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85989876b28e81a40b5057e948b9e5a2
+      internalID: -1078319127172404098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra2x6_11
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 1152
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70acac1ed9e9024b9114226962fc364
+      internalID: -6373860145623403795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra2x6_12
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1086
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c18c6e700c68343bbfe49604af59bc
+      internalID: 1664240608986118628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra2x6_13
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1086
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5be17f74fed7f4c9629ce94c0934e5
+      internalID: 1432578030419890587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra2x6_14
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1074
+        width: 96
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416b5eeb6c19632419d87b53adc5abe7
+      internalID: -1410405739680969240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra2x6_15
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 978
+        width: 96
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7e6cae8bc03b744a9f47ac6c936fd9
+      internalID: -6413706178260622248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra2x6_16
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1002
+        width: 96
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d365c186571e948975df0089289fc8
+      internalID: -4479819296850766948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra2x6_17
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1002
+        width: 96
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5926016786104f641b7ebb42c907de3b
+      internalID: -7811925849649153423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra2x6_18
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 1002
+        width: 96
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b75e6f3ec6eeeb4eb6452fd9c82627f
+      internalID: 1963755952608059021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra2x6_19
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 870
+        width: 54
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfefb460caefd744907fcf70b0d8d3f
+      internalID: 3212213991645474196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra2x6_20
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 870
+        width: 54
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5796e93d8368294e895148f9c65d38a
+      internalID: -3475181104897515055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra2x6_21
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 768
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556234fc946ea1a439383213c1df2d24
+      internalID: 5414602596616390525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra2x6_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 768
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca989e0ea51339e478d11643add1ae7b
+      internalID: 3755436646371848932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra2x6_23
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 768
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a2c6bc59aac5547a3159456858147e
+      internalID: 7157722871914636078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra2x6_24
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 768
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8a4e982c465c044b3c702777ea043c
+      internalID: 4054232505225836152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra2x6_25
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 768
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720fdaaa181360d4d85d9dd837cf701f
+      internalID: -3583338034389133696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra2x6_26
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 294
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116fb43dbd2127845bfdd2bcf9127dcf
+      internalID: -6310353920795426246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra2x6_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 294
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07deb634ad78aa547af39208e1c74f62
+      internalID: -6477698075122441498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra2x6_28
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 294
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567e2ecf7d808a64b9bb5d1bffecfe5a
+      internalID: -660621789437510256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra2x6_29
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 294
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f69c383b790b60488f7ebb46002abc8
+      internalID: 3728639798946393796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra2x6_30
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 294
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33b3cac66123ed4fb8be4c6c68201e5
+      internalID: 3136112598064828152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra2x6_31
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 294
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82a76b3227fc234b924cb7f4048863e
+      internalID: -4382200855138052620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra2x6_32
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d64e0ad7a071ac47bba2f7c2ff625a9
+      internalID: 3067357138480653304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra2x6_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc8469281f4e4742b8ef01060884013
+      internalID: 6456058615310544792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra2x6_34
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2863095e5397c4e87ad8a7249ccd79
+      internalID: 6623776924404302850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra2x6_35
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e95abe25a47e744288d7a3ec637fa94
+      internalID: -6196552934445408294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra2x6_36
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4b6c8bdb6123f489fccf9c29743aff
+      internalID: -1994092186229716970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra2x6_37
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcad7db040ed5a44abf5436d03558a97
+      internalID: 8040211574163351463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra2x6_38
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 90
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e9dee15532f7e429d167047b8738ae
+      internalID: 3292661964600586596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra2x6_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 90
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad12a4e8b6927a044a1f4be50b02dc43
+      internalID: 8617548427286269041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra2x6_40
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 90
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cf94e8fe9553245812bdef37db4ec2
+      internalID: 4166869768565031272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra2x6_41
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 90
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24d4e3daece49f48b70bd7f4c786333
+      internalID: -1911648927052973415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra2x6_42
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 90
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2743b478f9f7cf940a537ea75c2c46ec
+      internalID: -7900205686983278356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terra2x6_43
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 90
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a85054d263cdce4c99286623b80593c
+      internalID: -8625878530053372353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
